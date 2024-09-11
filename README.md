@@ -1,4 +1,4 @@
-<img align="center" alt="Error Loading...." width="1200" height="450" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.canva.com%2Flearn%2F404-page-design%2F&psig=AOvVaw3gkWXCQBeG7YcxwbTaKGrT&ust=1726131270725000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiDjZ3CuogDFQAAAAAdAAAAABAJ">
+<img align="center" alt="Error Loading...." width="1200" height="450" src="https://static-cse.canva.com/blob/1374828/50ofthemostcreative404pagesontheweb.7d295302.avif">
 <h1 align="center">Hi 👋, I'm VAIBHAV GUPTA</h1>
 <h3 align="center">Computer Science Student!</h3>
 
