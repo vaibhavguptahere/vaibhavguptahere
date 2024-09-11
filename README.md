@@ -1,4 +1,4 @@
-<img align="center" display="in-block" alt="Error Loading...." width="700" height="450" src="https://media.tenor.com/IHdlTRsmcS4AAAAM/404.gif">
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm VAIBHAV GUPTA</h1>
 <h3 align="center">Computer Science Student</h3>
 
