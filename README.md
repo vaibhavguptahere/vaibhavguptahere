@@ -1,6 +1,6 @@
 <img align="center" alt="Error Loading...." width="750" height="450" src="https://media.tenor.com/IHdlTRsmcS4AAAAM/404.gif">
 <h1 align="center">Hi 👋, I'm VAIBHAV GUPTA</h1>
-<h3 align="center">Computer Science Student</h3>
+<h3 align="center">Computer Science Student!</h3>
 
 <img align="right" alt="Error Loading...." width="400" height="400" src="https://media.licdn.com/dms/image/D5612AQEhKguQVjXr4g/article-cover_image-shrink_600_2000/0/1693971265825?e=2147483647&v=beta&t=vRAWRIEHIp6sKRbLxQ_QmHTgjmTRYhj8vOLwlhskjzg">
 
