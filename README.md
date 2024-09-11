@@ -1,7 +1,8 @@
 <img alt="Error Loading...." width="1200" height="450" src="https://static.wikia.nocookie.net/politicsandwar/images/6/64/Error_404_Flag.gif/revision/latest?cb=20200413060843">
 <h1 align="center">Hi 👋, I'm VAIBHAV GUPTA</h1>
 <h3 align="center">Computer Science Student!</h3>
-
+<br>
+<br>
 <img align="right" alt="Error Loading...." width="600" height="400" src="https://eaiteducation.com/wp-content/uploads/2021/04/Vector_images_1.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavguptahere&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavguptahere" /> </p>
