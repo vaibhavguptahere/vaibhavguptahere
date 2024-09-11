@@ -1,4 +1,4 @@
-<img align="center" alt="Error Loading...." width="1200" height="450" src="https://media.tenor.com/IHdlTRsmcS4AAAAM/404.gif">
+<img alt="Error Loading...." width="1200" height="450" src="https://media.tenor.com/IHdlTRsmcS4AAAAM/404.gif">
 <h1 align="center">Hi 👋, I'm VAIBHAV GUPTA</h1>
 <h3 align="center">Computer Science Student!</h3>
 
