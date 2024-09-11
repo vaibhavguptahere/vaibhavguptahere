@@ -1,4 +1,4 @@
-<img alt="Error Loading...." width="1200" height="450" src="https://media.tenor.com/IHdlTRsmcS4AAAAM/404.gif">
+<img alt="Error Loading...." width="1200" height="450" src="https://static.wikia.nocookie.net/politicsandwar/images/6/64/Error_404_Flag.gif/revision/latest?cb=20200413060843">
 <h1 align="center">Hi 👋, I'm VAIBHAV GUPTA</h1>
 <h3 align="center">Computer Science Student!</h3>
 
