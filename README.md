@@ -3,7 +3,7 @@
 <h3 align="center">Computer Science Student!</h3>
 <br>
 <br>
-<img align="right" alt="Error Loading...." width="600" height="400" src="https://eaiteducation.com/wp-content/uploads/2021/04/Vector_images_1.png">
+<img align="right" alt="Error Loading...." width="600" height="400" src="https://cloudmlmsoftware.com/sites/all/themes/cloudmlm/assets/images/features/webBasdIntro.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavguptahere&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavguptahere" /> </p>
 
