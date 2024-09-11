@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm VAIBHAV GUPTA</h1>
 <h3 align="center">Computer Science Student!</h3>
 
-<img alt="Error Loading...." width="400" height="400" src="https://media.licdn.com/dms/image/D5612AQEhKguQVjXr4g/article-cover_image-shrink_600_2000/0/1693971265825?e=2147483647&v=beta&t=vRAWRIEHIp6sKRbLxQ_QmHTgjmTRYhj8vOLwlhskjzg" align="right">
+<img align="right" alt="Error Loading...." width="400" height="400" src="https://media.licdn.com/dms/image/D5612AQEhKguQVjXr4g/article-cover_image-shrink_600_2000/0/1693971265825?e=2147483647&v=beta&t=vRAWRIEHIp6sKRbLxQ_QmHTgjmTRYhj8vOLwlhskjzg">
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=vaibhavguptahere&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavguptahere" /> </p>
 
