@@ -9,16 +9,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavguptahere&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavguptahere" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<p align="right">
+
 - 🔭 I’m currently working on **my skills**
-<p align="right">
+
 - 🌱 I’m currently pursuing **BTech at BENNETT UNIVERSITY**
-<p align="right">
+
 - 👨‍💻 All of my projects are available here [https://github.com/dashboard](https://github.com/dashboard)
-<p align="right">
+
 - 📫 How to reach me **guptavaibhavg2005@gmail.com**
   
-</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/vaibhavguptahere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vaibhavguptahere" height="30" width="40" /></a>
