@@ -3,7 +3,8 @@
 <h3 align="center">Computer Science Student!</h3>
 <br>
 <br>
-<img align="center" alt="Error Loading...." width="400" height="400" src="https://firstfloor.agency/wp-content/uploads/2022/06/440-Converted-2048x1606.png">
+
+<img align="right" alt="Error Loading...." width="400" height="400" src="https://media.licdn.com/dms/image/D5612AQEhKguQVjXr4g/article-cover_image-shrink_600_2000/0/1693971265825?e=2147483647&v=beta&t=vRAWRIEHIp6sKRbLxQ_QmHTgjmTRYhj8vOLwlhskjzg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavguptahere&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavguptahere" /> </p>
 
