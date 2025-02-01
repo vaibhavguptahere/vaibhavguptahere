@@ -1,4 +1,4 @@
-<img alt="Error Loading...." width="1200" height="450" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
+<img alt="Error Loading...." width="1200" height="450" src="https://private-user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzg0Mjk1MTQsIm5iZiI6MTczODQyOTIxNCwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg4MzQtNzI5MDMzMjQtY2Y1Ny00ZTkwLTgwYTYtZWQzYzk3MzRlMGVkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjAxVDE3MDAxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI4NjM4NTM0NjRiYzU5YjZjMjc4MmI5YWIxNzM4NDgzYTQ4NDk5ZWNhZGRjNGJhODcwMWRiOWNlN2ZjOWE3N2EmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.qQXbi0sPglWgo66jf6KkMdfCeY6y4A3SxI52eenzxv0">
 <h1 align="center">Hi 👋, I'm VAIBHAV GUPTA</h1>
 <h3 align="center">Computer Science Student!</h3>
 <br>
