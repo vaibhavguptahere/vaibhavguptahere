@@ -77,16 +77,15 @@
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
       <br>NodeJS
     </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongo" width="48" height="48" alt="nodejs" />
-      <br>MongoDb
-    </td>
-
   </tr>
   <tr>
   
   </tr>
  <tr>
+           <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongo" width="48" height="48" alt="nodejs" />
+      <br>MongoDb
+    </td>
      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
