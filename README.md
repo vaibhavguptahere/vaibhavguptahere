@@ -16,16 +16,20 @@
 
 - 👨‍💻 All of my projects are available at this [Portfolio](https://vaibhavgportfolio.netlify.app/)
 
-
 - 📄 Know about my experiences through [Resume](https://drive.google.com/file/d/15aiuh_iPbLKM3obbWI1upF9SpJoPFavl/view?usp=drive_link)
 
 - 💬 Ask me about **anything!**
 
 ### Connect with Me 🤝
 <p align="left">
+<a href="https://github.com/vaibhavguptahere" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="vaibhavguptahere" height="30" width="40" />
+</a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vaibhavguptahere-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaibhavguptahere-/" height="30" width="40" /></a>
+<a href="mailto:guptavaibhavg2005@gmail.com" target="_blank">
+  <img align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="vaibhavguptahere@gmail.com" height="35" width="30" />
+</a>
 <a href="https://kaggle.com/https://www.kaggle.com/vaibhavguptahere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/vaibhavguptahere" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/vaibhavgupta1_8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/vaibhavgupta1_8/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/vaibhavguptahere/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vaibhavguptahere/" height="30" width="40" /></a>
 </p>
 
@@ -69,7 +73,13 @@
         <img src="https://skillicons.dev/icons?i=next" width="48" height="48" alt="nextjs" />
       <br>NextJS
     </td>
-    <td align="center"  width="96">
+
+  </tr>
+  <tr>
+  
+  </tr>
+ <tr>
+     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="express" />
       <br>Express
     </td>
@@ -77,12 +87,7 @@
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
       <br>NodeJS
     </td>
-  </tr>
-  <tr>
-  
-  </tr>
- <tr>
-           <td align="center" width="96">
+        <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongo" width="48" height="48" alt="nodejs" />
       <br>MongoDb
     </td>
