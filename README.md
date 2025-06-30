@@ -1,4 +1,4 @@
-<video src="/header.mp4" title="👋 Hi there! I'm Reza" autoplay muted loop playsinline></video>
+<video src="header.mp4" title="👋 Hi there! I'm Reza" autoplay muted loop playsinline></video>
 <div align="justify">
 
 <h1 align="center">Hi 👋, I'm VAIBHAV GUPTA</h1>
@@ -29,8 +29,8 @@
 <a href="mailto:guptavaibhavg2005@gmail.com" target="_blank">
   <img align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="vaibhavguptahere@gmail.com" height="35" width="30" />
 </a>
-<a href="https://kaggle.com/https://www.kaggle.com/vaibhavguptahere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/vaibhavguptahere" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/vaibhavguptahere/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vaibhavguptahere/" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/vaibhavguptahere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/vaibhavguptahere" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/vaibhavguptahere/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vaibhavguptahere/" height="30" width="40" /></a>
 </p>
 
 ### Language and Tools ⚙️
