@@ -1,4 +1,4 @@
-<video src="./header.mp4" title="👋 Hi there! I'm Reza" autoplay muted loop playsinline></video>
+<img width="1000" height="450" src="./assets/header.gif">
 <div align="justify">
 
 <h1 align="center">Hi 👋, I'm VAIBHAV GUPTA</h1>
