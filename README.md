@@ -9,7 +9,7 @@
 <img
   align="right"
   alt="Profile Image"
-  width="600"
+  width="500"
   src="https://i.postimg.cc/3wdN6ncG/b39b6f86e3e5473fa7987a0217d74f4b-Picsart-Ai-Image-Enhancer.png"
   style="background: transparent; mix-blend-mode: multiply;"
 />
