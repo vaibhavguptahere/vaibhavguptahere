@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavguptahere&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavguptahere" /> </p>
 
-<img align="right" alt="Error Loading...." width="300" height="300" src="https://media.licdn.com/dms/image/D5612AQEhKguQVjXr4g/article-cover_image-shrink_600_2000/0/1693971265825?e=2147483647&v=beta&t=vRAWRIEHIp6sKRbLxQ_QmHTgjmTRYhj8vOLwlhskjzg">
+<img align="right" alt="Error Loading...." width="300" height="300" src="https://i.postimg.cc/bvB8tPLH/wmremove-transformed.png">
 
 - 🔭 I’m currently working on myself!
 
