@@ -176,6 +176,7 @@ Contributed to the university's research community through event organization an
 
 | Recognition | Details |
 |---|---|
+| Productathon Finalist | IIT Roorkee |
 | AWS Certified Cloud Practitioner | Amazon Web Services, 2026 |
 | ResCon 4.0 Co-Organizer | Collaborated with professionals from Deloitte and the Indian Air Force via BU Research Society |
 | CGPA 8.82/10.0 | B.Tech Computer Science, Bennett University |
