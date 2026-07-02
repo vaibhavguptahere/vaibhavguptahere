@@ -39,6 +39,7 @@ My work spans healthcare, civic-tech, and fintech domains — from building role
 - Software Development Internships
 - Full Stack Development Projects
 - AI/ML Integration Work
+- Open Source Contributions
 
 ---
 
@@ -208,7 +209,7 @@ Certification ID: `5aa5a0cfcb0045628110948e49c9007a` — demonstrates foundation
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vaibhavguptahere&theme=discord&no-frame=true&column=7&margin-w=15&margin-h=15" width="100%"/>
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=vaibhavguptahere&theme=discord&no-frame=true&column=7&margin-w=15&margin-h=15" width="100%"/>
 
 </div>
 
@@ -231,6 +232,8 @@ Certification ID: `5aa5a0cfcb0045628110948e49c9007a` — demonstrates foundation
 <img src="https://raw.githubusercontent.com/vaibhavguptahere/vaibhavguptahere/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
+
+> **Setup required:** this image only renders once a GitHub Action generates it in your profile repo. See the workflow snippet below.
 
 ---
 
