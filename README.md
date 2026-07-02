@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Vaibhav%20Gupta&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Vaibhav%20Gupta&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Software%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Scalable+Software+Systems;Exploring+AI+%2F+Machine+Learning;Full+Stack+%7C+Cloud+%7C+Product+Engineering;Open+to+Software+Engineering+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Scalable+Full+Stack+Applications;Architecting+Secure%2C+Role-Based+Systems;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Open+to+Software+Development+Internships" alt="Typing SVG" />
 </a>
 
 <br/>
 
 ![Academic](https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
-![University](https://img.shields.io/badge/Bennett%20University-4C1D95-7C3AED?style=for-the-badge&logo=studyverse&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Delhi%2C%20India-5B21B6?style=for-the-badge&logo=googlemaps&logoColor=white)
+![University](https://img.shields.io/badge/Bennett%20University-CGPA%208.82-7C3AED?style=for-the-badge&logo=studyverse&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Greater%20Noida%2C%20India-5B21B6?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
 
@@ -31,14 +31,14 @@
 
 ## About Me
 
-I'm a Computer Science undergraduate at Bennett University focused on building reliable, scalable software — from full-stack web applications to AI/ML-driven systems. My approach blends strong engineering fundamentals with a product mindset: I care as much about clean architecture and performance as I do about the end-user experience.
+Computer Science undergraduate at Bennett University (CGPA 8.82/10.0) with hands-on experience in full stack development, end-to-end software engineering, and AI integration. I architect scalable web and mobile applications using React.js, Next.js, and Node.js, with a strong focus on secure data management, role-based access control, and system efficiency.
 
-I enjoy working across the stack, from designing APIs and data models to shipping polished front-end interfaces, and I'm actively deepening my expertise in applied machine learning and cloud infrastructure.
+My work spans healthcare, civic-tech, and fintech domains — from building role-based dashboards and RESTful APIs to integrating generative AI assistants into production-style applications. I approach engineering with a product mindset: solving real user problems with clean, maintainable architecture.
 
 **Open To:**
-- Software Engineering Internships / New-Grad Roles
+- Software Development Internships
 - Full Stack Development Projects
-- AI/ML Collaboration & Research
+- AI/ML Integration Work
 - Open Source Contributions
 
 ---
@@ -47,19 +47,19 @@ I enjoy working across the stack, from designing APIs and data models to shippin
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,js,cpp,c" />
+<img src="https://skillicons.dev/icons?i=js,python,cpp,java,html,css" />
 
-**Frontend**
+**Frontend & Mobile**
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,expo" />
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase,prisma" />
 
 **Cloud, DevOps & Tooling**
 
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=aws,git,github,postman,vercel" />
 
 ---
 
@@ -67,69 +67,69 @@ I enjoy working across the stack, from designing APIs and data models to shippin
 
 | Domain | Proficiency | Details |
 |---|---|---|
-| Machine Learning Fundamentals | ⭐⭐⭐⭐☆ | Supervised/unsupervised learning, model evaluation, scikit-learn |
-| Data Analysis & Visualization | ⭐⭐⭐⭐☆ | Pandas, NumPy, Matplotlib, exploratory data analysis on Kaggle datasets |
-| Deep Learning | ⭐⭐⭐☆☆ | Neural network fundamentals, TensorFlow/PyTorch basics |
-| Applied AI Projects | ⭐⭐⭐☆☆ | [Add specific project domain, e.g. NLP, computer vision] |
+| Machine Learning Fundamentals | ⭐⭐⭐☆☆ | Core ML concepts and data preprocessing techniques |
+| Data Preprocessing | ⭐⭐⭐☆☆ | Cleaning, transforming, and structuring data for downstream use |
+| Generative AI API Integration | ⭐⭐⭐⭐☆ | Integrated Perplexity/Gen AI APIs into production-style applications for real-time interactive insights |
+| Applied AI in Full Stack Apps | ⭐⭐⭐⭐☆ | Built AI-powered features (e.g. spending pattern analysis, conversational financial assistant) inside live full stack projects |
 
 ---
 
 ## Featured Projects
 
 <details>
-<summary><strong>[Add Project Name]</strong></summary>
+<summary><strong>BreathLine – Healthcare Management Platform</strong></summary>
 <br/>
 
-[Add a 2–3 sentence description of what the project does and the problem it solves.]
+A full-stack healthcare platform architected to support patients, doctors, and emergency responders with secure, role-based access to medical data — including QR-based emergency access for instant health data visualization.
 
 | Category | Details |
 |---|---|
-| Stack | [e.g. React, Node.js, MongoDB] |
-| Scale | [e.g. users supported, data volume] |
-| Performance | [e.g. load time, response time benchmarks] |
-| Security | [e.g. auth method, data protection measures] |
-| Impact | [e.g. real-world outcome, users helped] |
+| Stack | Next.js, MongoDB, Cloudinary |
+| Scale | Multi-role platform supporting patients, doctors, and emergency responders |
+| Performance | Real-time medical data accessibility across role-based dashboards |
+| Security | Role-Based Access Control (RBAC) with secure authentication and authorization workflows |
+| Impact | Enables instant emergency medical data access via QR-based interfaces |
 | Repository | [Add GitHub link] |
 
-[Add a short paragraph explaining your technical decisions and role in the project.]
+Designed the system architecture around distinct role-based dashboards, built RESTful APIs to serve real-time medical data, and integrated Cloudinary for secure storage of medical records and media uploads.
 
 </details>
 
 <details>
-<summary><strong>[Add Project Name]</strong></summary>
+<summary><strong>JanConnect – Civic Issue Reporting App</strong></summary>
 <br/>
 
-[Add a 2–3 sentence description of what the project does and the problem it solves.]
+A cross-platform mobile app enabling citizens to report civic issues with geolocation tracking, alongside dedicated workflows for contractors and administrators to manage tender resolution lifecycles.
 
 | Category | Details |
 |---|---|
-| Stack | [e.g. Python, Flask, PostgreSQL] |
-| Scale | [Add detail] |
-| Performance | [Add detail] |
-| Security | [Add detail] |
-| Impact | [Add detail] |
+| Stack | React Native (Expo), Supabase, Cloudinary |
+| Scale | Multi-user system spanning citizens, contractors, and administrators |
+| Performance | Real-time geolocation tracking and status updates on reported issues |
+| Security | Role-specific access flows for citizens vs. contractors vs. administrators |
+| Impact | Streamlines civic issue reporting and tender resolution tracking end-to-end |
 | Repository | [Add GitHub link] |
 
-[Add a short paragraph explaining your technical decisions and role in the project.]
+Built cross-platform with React Native/Expo, designed specialized user flows per role, and implemented contractor dashboards for tender management and issue resolution tracking.
 
 </details>
 
 <details>
-<summary><strong>[Add Project Name]</strong></summary>
+<summary><strong>Bachat Bhai – AI-Powered Finance Tracker</strong></summary>
 <br/>
 
-[Add a 2–3 sentence description of what the project does and the problem it solves.]
+A full-stack personal finance tracker that combines transaction management with a generative AI assistant, giving users real-time, interactive insights into their spending patterns.
 
 | Category | Details |
 |---|---|
-| Stack | [Add detail] |
-| Scale | [Add detail] |
-| Performance | [Add detail] |
-| Security | [Add detail] |
-| Impact | [Add detail] |
+| Stack | Next.js, Prisma, Generative AI API (Perplexity), Clerk |
+| Scale | Full transaction, budget, and recurring-expense tracking system |
+| Performance | Automated monthly email summaries and real-time budget threshold notifications |
+| Security | Authentication handled via Clerk |
+| Impact | Delivers AI-driven financial insights and proactive budget alerts to users |
 | Repository | [Add GitHub link] |
 
-[Add a short paragraph explaining your technical decisions and role in the project.]
+Built the data layer with Prisma ORM, integrated a generative AI assistant to analyze spending patterns and answer user queries conversationally, and implemented automated notification pipelines for budget thresholds and monthly summaries.
 
 </details>
 
@@ -137,16 +137,27 @@ I enjoy working across the stack, from designing APIs and data models to shippin
 
 ## Experience
 
-**[Add Job Title] · [Add Company Name]**
-*[Add Date Range]*
+**Frontend Development Intern · HiTutor**
+*Aug 2025 – Present · Remote*
 
-[Add a 1–2 sentence professional summary of the role.]
+Contributing to student and teacher-facing dashboards as part of a remote engineering team, with a focus on reusable, consistent UI architecture.
 
-- [Add scope of work bullet point]
-- [Add scope of work bullet point]
-- [Add scope of work bullet point]
+- Developed 7+ responsive UI components using React.js, ensuring consistency across student and teacher dashboards
+- Engineered 10+ reusable modules, reducing development time for new features and improving maintainability
+- Collaborated with backend teams to integrate APIs and align frontend architecture with business requirements
+- Used Git/GitHub for version control and participated in collaborative code reviews in an Agile environment
 
-`[Skill]` `[Skill]` `[Skill]` `[Skill]`
+`React.js` `Git` `GitHub` `REST APIs` `Agile`
+
+**Community Research Member · BU Research Society**
+*Oct 2024 – Sept 2025 · Greater Noida*
+
+Contributed to the university's research community through event organization and technical writing.
+
+- Co-organized ResCon 4.0 in collaboration with academic and industry professionals from Deloitte and the Indian Air Force
+- Strengthened technical documentation skills by contributing content to the official BURS newsletter
+
+`Technical Writing` `Event Organization` `Community Research`
 
 ---
 
@@ -156,9 +167,9 @@ I enjoy working across the stack, from designing APIs and data models to shippin
 
 | Recognition | Details |
 |---|---|
-| [Add achievement] | [Add details, date, or issuing body] |
-| [Add achievement] | [Add details, date, or issuing body] |
-| [Add achievement] | [Add details, date, or issuing body] |
+| AWS Certified Cloud Practitioner | Amazon Web Services, 2026 |
+| ResCon 4.0 Co-Organizer | Collaborated with professionals from Deloitte and the Indian Air Force via BU Research Society |
+| CGPA 8.82/10.0 | B.Tech Computer Science, Bennett University |
 
 </div>
 
@@ -170,26 +181,13 @@ I enjoy working across the stack, from designing APIs and data models to shippin
 
 ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-**Oracle**
-
-[Add Oracle certification badge/name here, or remove this section if not applicable]
-
-**NPTEL**
-
-[Add NPTEL certification badge/name here, or remove this section if not applicable]
-
-**Cisco**
-
-[Add Cisco certification badge/name here, or remove this section if not applicable]
+Certification ID: `5aa5a0cfcb0045628110948e49c9007a` — demonstrates foundational knowledge of AWS Cloud concepts, core services, security, architecture, pricing, and support.
 
 ---
 
 ## Coding Profiles
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange)](https://leetcode.com/u/vaibhavguptahere/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/[add-username]/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/[add-username])
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/[add-username])
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/vaibhavguptahere)
 
 ---
@@ -241,19 +239,21 @@ I enjoy working across the stack, from designing APIs and data models to shippin
 
 ```yaml
 learning:
-  - "[Add current learning focus, e.g. System Design]"
-  - "[Add current learning focus, e.g. Advanced ML]"
+  - "Advanced Machine Learning & Generative AI integration"
+  - "System design for scalable full stack applications"
 
 building:
-  - "[Add what you're currently building]"
+  - "Full stack products across healthcare, civic-tech, and fintech domains"
+  - "Role-based, secure application architectures"
 
 exploring:
-  - "[Add what you're exploring, e.g. LLM applications]"
+  - "Generative AI API integration in production applications"
+  - "Cloud architecture on AWS"
 
 open_to:
-  - "Software Engineering Roles"
+  - "Software Development Internships"
   - "Full Stack Development Projects"
-  - "AI/ML Collaboration"
+  - "AI/ML Integration Work"
   - "Open Source Contributions"
 ```
 
@@ -270,7 +270,7 @@ open_to:
 
 <div align="center">
 
-*"Engineering thoughtful software, one commit at a time."*
+*"Engineering secure, scalable software — one role-based dashboard at a time."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
 
