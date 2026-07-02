@@ -39,7 +39,6 @@ My work spans healthcare, civic-tech, and fintech domains — from building role
 - Software Development Internships
 - Full Stack Development Projects
 - AI/ML Integration Work
-- Open Source Contributions
 
 ---
 
