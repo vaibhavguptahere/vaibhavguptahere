@@ -235,29 +235,6 @@ Certification ID: `5aa5a0cfcb0045628110948e49c9007a` — demonstrates foundation
 
 ---
 
-## Current Focus
-
-```yaml
-learning:
-  - "Advanced Machine Learning & Generative AI integration"
-  - "System design for scalable full-stack applications"
-
-building:
-  - "Full-stack products across healthcare, civic-tech, and fintech domains"
-  - "Role-based, secure application architectures"
-
-exploring:
-  - "Applied AI integration in production applications"
-  - "Cloud architecture on AWS"
-
-open_to:
-  - "Software Development Internships"
-  - "Full Stack Development Projects"
-  - "AI/ML Integration Work"
-```
-
----
-
 ## Connect
 
 [![Gmail](https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guptavaibhavg2005@gmail.com)
