@@ -1,11 +1,9 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Vaibhav%20Gupta&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Software%20Engineer&descAlignY=55&descSize=20" width="100%"/>
-
+<img width="1000" height="450" src="./assets/header.gif" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vaibhav%20Gupta&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Software%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+Scalable+Full+Stack+Applications;Architecting+Secure%2C+Role-Based+Systems;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Open+to+Software+Development+Internships" alt="Typing SVG" />
 </a>
-
 <br/>
 
 ![Academic](https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
