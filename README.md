@@ -22,8 +22,6 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vaibhavguptahere&label=Profile%20Views&color=6D28D9&style=flat-square)
-![Followers](https://img.shields.io/github/followers/vaibhavguptahere?label=Followers&style=flat-square&color=7C3AED)
-![Stars](https://img.shields.io/github/stars/vaibhavguptahere?label=Stars&style=flat-square&color=8B5CF6)
 
 </div>
 
@@ -31,7 +29,7 @@
 
 ## About Me
 
-Computer Science undergraduate at Bennett University (CGPA 8.82/10.0) with hands-on experience in full stack development, end-to-end software engineering, and AI integration. I architect scalable web and mobile applications using React.js, Next.js, and Node.js, with a strong focus on secure data management, role-based access control, and system efficiency.
+Computer Science undergraduate at Bennett University (CGPA 8.82/10.0) with hands-on experience in full-stack development, end-to-end software engineering, and AI integration. I architect scalable web and mobile applications using React.js, Next.js, and Node.js, with a strong focus on secure data management, role-based access control, and system efficiency.
 
 My work spans healthcare, civic-tech, and fintech domains — from building role-based dashboards and RESTful APIs to integrating generative AI assistants into production-style applications. I approach engineering with a product mindset: solving real user problems with clean, maintainable architecture.
 
@@ -69,14 +67,14 @@ My work spans healthcare, civic-tech, and fintech domains — from building role
 |---|---|---|
 | Machine Learning Fundamentals | ⭐⭐⭐☆☆ | Core ML concepts and data preprocessing techniques |
 | Data Preprocessing | ⭐⭐⭐☆☆ | Cleaning, transforming, and structuring data for downstream use |
-| Applied AI in Full Stack Apps | ⭐⭐⭐⭐☆ | Built AI-powered features (e.g. spending pattern analysis, conversational financial assistant) inside live full stack projects |
+| Applied AI in Full Stack Apps | ⭐⭐⭐⭐☆ | Built AI-powered features (e.g. spending pattern analysis, conversational financial assistant) inside live full-stack projects |
 
 ---
 
 ## Featured Projects
 
 <details>
-<summary><strong>BreathLine – Healthcare Management Platform</strong></summary>
+<summary><strong>BreathLine – Medical Record Management Platform</strong></summary>
 <br/>
 
 A role-based medical records platform built to solve a real access-control problem: patients, doctors, and emergency responders each need different views of the same data, instantly, without compromising security.
@@ -95,7 +93,6 @@ A role-based medical records platform built to solve a real access-control probl
 | Performance | Real-time medical data accessibility across role-based dashboards |
 | Security | Role-Based Access Control (RBAC) with secure authentication and authorization workflows |
 | Impact | Enables instant emergency medical data access via QR-based interfaces |
-| Repository | [Add GitHub link] |
 
 </details>
 
@@ -119,7 +116,7 @@ A cross-platform civic reporting app where the hard problem wasn't the UI — it
 | Performance | Real-time geolocation tracking and status updates on reported issues |
 | Security | Role-specific access flows enforced via Supabase row-level security |
 | Impact | Streamlines civic issue reporting and tender resolution tracking end-to-end |
-| Repository | [Add GitHub link] |
+| Repository | [https://github.com/vaibhavguptahere/Jan-connect-updated] |
 
 </details>
 
@@ -143,7 +140,7 @@ A personal finance tracker where the goal was to make an AI assistant genuinely 
 | Performance | Automated monthly email summaries and real-time budget threshold notifications |
 | Security | Authentication and data scoping handled via Clerk |
 | Impact | Delivers AI-driven financial insights and proactive budget alerts to users |
-| Repository | [Add GitHub link] |
+| Repository | [https://github.com/vaibhavguptahere/BachatBhai] |
 
 </details>
 
@@ -210,8 +207,8 @@ Certification ID: `5aa5a0cfcb0045628110948e49c9007a` — demonstrates foundation
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vaibhavguptahere&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavguptahere&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="35%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=vaibhavguptahere&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=vaibhavguptahere&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="35%"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavguptahere&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="70%"/>
 
@@ -237,8 +234,6 @@ Certification ID: `5aa5a0cfcb0045628110948e49c9007a` — demonstrates foundation
 
 </div>
 
-> **Setup required:** this image only renders once a GitHub Action generates it in your profile repo. See the workflow snippet below.
-
 ---
 
 ## Current Focus
@@ -246,14 +241,14 @@ Certification ID: `5aa5a0cfcb0045628110948e49c9007a` — demonstrates foundation
 ```yaml
 learning:
   - "Advanced Machine Learning & Generative AI integration"
-  - "System design for scalable full stack applications"
+  - "System design for scalable full-stack applications"
 
 building:
-  - "Full stack products across healthcare, civic-tech, and fintech domains"
+  - "Full-stack products across healthcare, civic-tech, and fintech domains"
   - "Role-based, secure application architectures"
 
 exploring:
-  - "Generative AI API integration in production applications"
+  - "Applied AI integration in production applications"
   - "Cloud architecture on AWS"
 
 open_to:
