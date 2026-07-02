@@ -1,7 +1,6 @@
 <div align="center">
 <img width="1000" height="450" src="./assets/header.gif" />
 <h1>Hi 👋, I'm Vaibhav Gupta</h1>
-<h3>Full Stack Developer | AI/ML Enthusiast | Software Engineer</h3>
  
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+Scalable+Full+Stack+Applications;Architecting+Secure%2C+Role-Based+Systems;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Open+to+Software+Development+Internships" alt="Typing SVG" />
