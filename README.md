@@ -197,13 +197,6 @@ Certification ID: `5aa5a0cfcb0045628110948e49c9007a` — demonstrates foundation
 
 ---
 
-## Coding Profiles
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange)](https://leetcode.com/u/vaibhavguptahere/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/vaibhavguptahere)
-
----
-
 ## GitHub Analytics
 
 <div align="center">
