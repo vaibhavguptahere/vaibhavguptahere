@@ -171,6 +171,32 @@ Contributed to the university's research community through event organization an
 
 ---
 
+## Volunteer Experience
+
+**Google Cloud Arcade Facilitator Program · Google Cloud Arcade**
+*May 2025 – Jul 2025 · 3 mos*
+
+Participated in the Google Cloud Arcade program as a student, completing hands-on labs and skill-based challenges on Google Cloud Platform.
+
+- Worked through guided labs covering cloud fundamentals, compute, storage, and core cloud services
+- Completed required challenges and earned Novice-level rewards
+- Gained practical, applied exposure to cloud concepts through structured, self-paced learning
+
+`Google Cloud Platform` `Cloud Fundamentals` `Self-Paced Learning`
+
+**Student Partner · Internshala**
+*Oct 2024 – Feb 2025 · 5 mos*
+
+Served as a Student Partner for Internshala, promoting online training programs to help students upskill.
+
+- Led awareness campaigns within college to educate peers about internship and training opportunities
+- Actively engaged with students to guide them toward relevant internships and skill-based learning programs
+- Contributed to increasing student participation and registrations on the Internshala platform
+
+`Community Outreach` `Campaign Leadership` `Student Engagement`
+
+---
+
 ## Achievements
 
 <div align="center">
@@ -227,8 +253,4 @@ Certification ID: `5aa5a0cfcb0045628110948e49c9007a` — demonstrates foundation
 
 </div>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
-
-</div>
+---
