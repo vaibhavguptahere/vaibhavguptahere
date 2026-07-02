@@ -235,15 +235,6 @@ Certification ID: `5aa5a0cfcb0045628110948e49c9007a` — demonstrates foundation
 
 ---
 
-## Connect
-
-[![Gmail](https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guptavaibhavg2005@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavguptahere-/)
-[![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhavguptahere)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://vaibhavgportfolio.netlify.app/)
-
----
-
 <div align="center">
 
 *"Engineering secure, scalable software — one role-based dashboard at a time."*
