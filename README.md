@@ -255,7 +255,6 @@ open_to:
   - "Software Development Internships"
   - "Full Stack Development Projects"
   - "AI/ML Integration Work"
-  - "Open Source Contributions"
 ```
 
 ---
