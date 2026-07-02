@@ -69,7 +69,6 @@ My work spans healthcare, civic-tech, and fintech domains — from building role
 |---|---|---|
 | Machine Learning Fundamentals | ⭐⭐⭐☆☆ | Core ML concepts and data preprocessing techniques |
 | Data Preprocessing | ⭐⭐⭐☆☆ | Cleaning, transforming, and structuring data for downstream use |
-| Generative AI API Integration | ⭐⭐⭐⭐☆ | Integrated Perplexity/Gen AI APIs into production-style applications for real-time interactive insights |
 | Applied AI in Full Stack Apps | ⭐⭐⭐⭐☆ | Built AI-powered features (e.g. spending pattern analysis, conversational financial assistant) inside live full stack projects |
 
 ---
