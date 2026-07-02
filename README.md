@@ -17,7 +17,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://vaibhavgportfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavguptahere-/)
 [![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guptavaibhavg2005@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhavguptahere)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange)](https://leetcode.com/u/vaibhavguptahere/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/vaibhavguptahere)
 
@@ -227,8 +226,6 @@ Certification ID: `5aa5a0cfcb0045628110948e49c9007a` — demonstrates foundation
 <img src="https://raw.githubusercontent.com/vaibhavguptahere/vaibhavguptahere/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
-
----
 
 <div align="center">
 
